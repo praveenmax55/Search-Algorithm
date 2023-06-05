@@ -22,7 +22,7 @@ i)	#Use a linear search method to match the item in a list.
 
 Program for linear search method to match the item in a list
 Developed by: your name: PRAVEEN D
-RegisterNumber: 22005917
+RegisterNumber: 212222240076
 '''
 def linearSearch(array,n,k):
     for i in range(0,n):
